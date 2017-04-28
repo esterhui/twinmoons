@@ -1,0 +1,125 @@
+pause
+memory 2047
+fftsize 16384
+slidesize 4376
+samplerate 23437.500000
+devaudio off
+outdevices 1
+inchannels 2
+outchannels 2
+spectrum_w_divisions 70
+Hz_reduction 1
+average.geometry 1024x791+0+0
+average.zoom 4x4+726+1381
+histogram.geometry 512x256+0+0
+histogram.zoom 7x1+0+0
+spectro.geometry 2048x1820+329+230
+spectro.zoom 1x6+3191+0
+waveform.geometry 1356x180-1-1
+waveform.zoom 1x1+33768914+0
+coloraperture
+coloraperture.geometry +2230+253
+colorpicker.geometry +0+0
+driftintegrator
+driftintegrator.geometry +2211+821
+equalization.geometry +0+0
+inputdevices.geometry +0+0
+inputmapping.geometry +0+0
+measurement.utc_time
+measurement.utc_time.geometry +3153+270
+outputdevices.geometry +0+0
+pianokeys
+pianokeys.geometry +3105+1296
+playdeck.geometry +0+0
+playdeck.equalization
+playdeck.notch_50
+playdeck.notch_60
+playdeck.lpf_on
+playdeck.lpf 996
+playdeck.hpf_on
+playdeck.hpf 1024
+playdeck.mono_mix_down
+playdeck.digital_gain 60
+scrollcontrol
+scrollcontrol.geometry +2637+604
+stats.geometry +0+0
+tonegenerator.geometry +0+0
+windowing
+windowing.geometry +2318+507
+zoomcontrol.geometry +0+0
+file.open.lines 15
+file.open.option_value 0
+file.save.lines 15
+file.average.lines 15
+file.equalization.lines 15
+average.decay
+average.timer 0
+average.last_bank 11
+average.duration 5
+coloraperture.upper 0
+coloraperture.lower -136
+driftintegrator.beamslices 11
+driftintegrator.driftrate -78263
+driftintegrator.increment 1000
+driftintegrator.optimumoverlap 1
+driftintegrator.limiter 405
+driftintegrator.paste_algorithm 0
+driftintegrator.auto_drift_quality 8
+driftintegrator.autoaveragepaste
+driftintegrator.anti_alias
+equalization.type 0
+equalization.alpha 100
+equalization.level 0
+histogram.decay 0
+measurements.bin_start 0
+measurements.bin_end 0
+windowing.type 3
+windowing.beta 600
+color.mono 8
+color.left 1
+color.right 1
+color.r 0
+color.g 1
+color.b 2
+color.0.0.0 0
+color.0.0.1 0
+color.0.0.2 0
+color.0.1.0 511
+color.0.1.1 511
+color.0.1.2 511
+color.0.ops 0
+color.0.map 0
+color.0.palette 9
+color.1.0.0 80
+color.1.0.1 0
+color.1.0.2 -40
+color.1.1.0 511
+color.1.1.1 340
+color.1.1.2 511
+color.1.ops 0
+color.1.map 0
+color.1.palette 0
+color.2.0.0 75
+color.2.0.1 96
+color.2.0.2 42
+color.2.1.0 366
+color.2.1.1 255
+color.2.1.2 499
+color.2.ops 8
+color.2.map 5
+color.2.palette 5
+tone.f.type 1
+tone.f.main_frequency 523250
+tone.f.lower_frequency 493880
+tone.f.upper_frequency 554360
+tone.m.type 0
+tone.m.f.type 1
+tone.m.f.frequency 372
+tone.m.amplitude_depth 90
+tone.m.pulse_duration 100
+tone.m.sweep_duration 1000
+tone.m.positive_phase 1
+tone.m.up_direction 1
+tone.m.exponential_sweep 0
+tone.dual_channel_mode 2
+tone.digital_gain_dB 0
