@@ -8,6 +8,7 @@ I use mostly open source and free tools to process the signal.
 
 - [csdr](https://github.com/simonyiszk/csdr) : Signal processing from command line
 - [baudline](http://www.baudline.com) : Excellent spetrogram tool for visualization of data
+    The file **baudline_session_twin_moons** included in this repository can be used by baudline (-tsession flag) to setup baudline with the correct parameters to easilty view these files. You probably have to copy the file to ~/.baudline/sessions/twin_moons to work with the scripts below.
 - Some custom scripts included in this repository
 
 
